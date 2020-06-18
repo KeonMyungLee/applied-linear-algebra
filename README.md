@@ -17,7 +17,7 @@
 ![book_cover](book_cover_placeholder.png)
 
 ## Repo에 대한 소개
-이 Repo는 "응용이 보이는 선형대수학"의 프로그래밍 실습 코드와 본문 보완 내용 및 보조 자료 등을 제공하는 페이지입니다. 본문 보완 내용은 [Corrections](./Corrections)에서, 각 장의 프로그래밍 실습 코드와 보조 자료는 [Practice Code](./Practice Code)에서 찾을 수 있습니다. 
+이 Repo는 "응용이 보이는 선형대수학"의 프로그래밍 실습 코드와 본문 보완 내용 및 보조 자료 등을 제공하는 페이지입니다. 본문 보완 내용은 [Corrections](./Corrections)에서, 각 장의 프로그래밍 실습 코드와 보조 자료는 [Practice Code](./Practice-Code)에서 찾을 수 있습니다. 
 
 ## 목차
 - **Chapter 01: 선형대수학의 개요**
