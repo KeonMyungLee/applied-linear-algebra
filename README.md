@@ -59,6 +59,6 @@
 ## Repo에 대한 소개
 이 Repo는 "응용이 보이는 선형대수학"의 프로그래밍 실습 코드와 본문 보완 내용 및 보조 자료 등을 제공하는 페이지입니다. 
 
-1장 문제: (Programming Code/1장/prog1-1.py)
+1장 문제: (./Practice Code/1장/prog1-1.py)
 
 
