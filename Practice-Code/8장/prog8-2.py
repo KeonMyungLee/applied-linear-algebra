@@ -34,7 +34,7 @@ ax.set_ylabel('principal component 2', fontsize = 12)
 ax.set_title('PCA with 2 components', fontsize = 15)
 
 targets = ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica']  # iris 데이터의 부류 이름 
-colors = ['r', 'g', 'b']   # 부류별로 지정된 색성 
+colors = ['r', 'g', 'b']   # 부류별로 지정된 색상  
 for target, color in zip(targets,colors):
     indicesToKeep = finalDf['target'] == target
     ax.scatter(finalDf.loc[indicesToKeep, 'principal component 1']
